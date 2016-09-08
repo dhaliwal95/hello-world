@@ -1,6 +1,6 @@
 # hello-world
-import.java.util*;
-
+//import java.util.Scanner;
+import java.util;
 class AddNumbers
 {
    public static void main(String args[])
