@@ -1,5 +1,5 @@
 # hello-world
-import.java.util.*;
+import.java.util*;
 
 class AddNumbers
 {
