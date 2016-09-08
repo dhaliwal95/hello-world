@@ -1,6 +1,3 @@
-# hello-world
-Initializing projects
-
 import java.util.Scanner;
  
 class AddNumbers
