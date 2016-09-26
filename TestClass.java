@@ -7,12 +7,12 @@ public class TestClass {
 	{
 	  Scanner in;
 	   int x, y, z;
-	   System.out.println("Enter two integers to calculate their sum ");
+	   System.out.println("Enter two integers to calculate their multiplication: ");
 	   in = new Scanner(System.in);
 	   x = in.nextInt();
 	   y = in.nextInt();
-	   z = x + y;
-	   System.out.println("Sum of entered integers = "+z);
+	   z = x * y;
+	   System.out.println("Multiplication of entered integers = "+z);
 	}
 }
 
