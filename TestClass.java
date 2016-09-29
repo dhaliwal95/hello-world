@@ -7,7 +7,7 @@ public class TestClass {
 	{
 	  Scanner in;
 	   int x, y, z;
-	   System.out.println("Enter two integers to calculate their multiplication: ");
+	   System.out.println("Enter two integers to calculate their addition: ");
 	   in = new Scanner(System.in);
 	   x = in.nextInt();
 	   y = in.nextInt();
